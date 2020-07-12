@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PADCX_TravelApp_RX_Room_LiveData</string>
+
+    <string name="lbl_menu_home">Home</string>
+    <string name="lbl_menu_rating">Rating</string>
+    <string name="lbl_menu_favourite">Favourite</string>
+    <string name="lbl_menu_cost">Cost</string>
+    <string name="lbl_menu_search">Search</string>
+
+
+    <string name="lbl_discount_tour">DiscountTour</string>
+    <string name="lbl_find_the_best_tour">Find the best tour</string>
+    <string name="lbl_country">Country</string>
+    <string name="lbl_new">New</string>
+    <string name="lbl_thailand">Thailand</string>
+    <string name="lbl_18_tours">18 Tours</string>
+    <string name="lbl_4_3">4.3</string>
+    <string name="lbl_popular_tours">Popular tours</string>
+    <string name="lbl_plan">10 nights for two/all inclusive</string>
+    <string name="lbl_cost">$ 245.50</string>
+    <string name="lbl_toolbar_title">Sea Flower Resort</string>
+    <string name="lbl_location">Koh Chang Tai, Thailand</string>
+    <string name="lbl_rating">2.1</string>
+    <string name="lbl_free_wi_fi">Free Wi-Fi</string>
+    <string name="lbl_sand_beach">Sand Beach</string>
+    <string name="lbl_first_coastline">First Coastline</string>
+    <string name="lbl_bar_and_restaurant">Bar and Restaurant</string>
+    <string name="lbl_booking">Booking</string>
+    <string name="lbl_rate">8.0/10</string>
+    <string name="lbl_based_on_30_reviews">Based on 30 reviews</string>
+    <string name="lbl_hotelout">Hotel Out</string>
+    <string name="lbl_desc">Description here</string>
+</resources>

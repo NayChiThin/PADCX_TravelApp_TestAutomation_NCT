@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_home_grey_24dp"
+        android:title="@string/lbl_menu_home"/>
+    <item
+        android:id="@+id/action_rating"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_star_grey_24dp"
+        android:title="@string/lbl_menu_rating"/>
+    <item
+        android:id="@+id/action_favourite"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_favorite_grey_24dp"
+        android:title="@string/lbl_menu_favourite"/>
+    <item
+        android:id="@+id/action_cost"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_monetization_on_grey_24dp"
+        android:title="@string/lbl_menu_cost"/>
+    <item
+        android:id="@+id/action_search"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_search_grey_24dp"
+        android:title="@string/lbl_menu_search"/>
+</menu>
